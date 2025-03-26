@@ -16,9 +16,7 @@ venv/
 # Logs
 *.log
 
-# Arquivos do Docker
-docker-compose.override.yml
-**/Dockerfile*
+
 
 # Arquivos de build do Python
 build/
